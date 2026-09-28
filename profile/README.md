@@ -10,6 +10,4 @@
 
 <p align="center">
   <a href="https://siteloji.tr">siteloji.tr</a>
-  ·
-  <a href="https://siteloji.tr/console/">Console</a>
 </p>
